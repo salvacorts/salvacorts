@@ -15,20 +15,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact" />
 </p> -->
 
-<style>
-    .column {
-        float: left;
-        width: 50%;
-    }
-
-    .row:after {
-        content: "";
-        display: table;
-        clear: both;
-    }
-</style>
-
-<div class="row">
-  <div class="column">aaaa</div>
-  <div class="column">bbbb</div>
-</div>
+<table width="100%"> 
+  <tr>
+  <td width="50%" style="border: 0px;">
+  aaaaa
+  </td>
+  <td width="50%" style="border: 0px;">
+  bbbbb
+  </td>
+</table>
