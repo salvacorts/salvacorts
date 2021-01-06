@@ -3,8 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salva-corts/)](https://www.linkedin.com/in/salva-corts/)
 [![Gmail](https://img.shields.io/badge/-salvacorts97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvacorts97@gmail.com)](mailto:salvacorts97@gmail.com)
 
-<table width="100%"> 
-    <td width="50%">
+<!-- <table width="100%"> 
+    <td width="50%" vertical-align="center">
         <ul>
             <li>🧐 Interested in Data and Distributed Systems</li>
             <li>💼 Software Engineer at <a href="https://www.rti.com/en/">RTI</a> (Remote)</li>
@@ -16,4 +16,10 @@
     <td width="50%" align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact&hide_border=true" />
     </td>
-</table>
+</table> -->
+
+<div align="center">
+	<br>
+    <img src="./content.svg" width="800" height="400">
+	<br>
+</div>
