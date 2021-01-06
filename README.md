@@ -8,9 +8,9 @@
 - 🌱 Pursuing a Ms in Data Science
 - ⚡️ Fun-Fact: In my free time I fly planes ✈️
 
-<p align="center">
-    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
-    <img height=175 src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
+<p align="center" vertical-align="top">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
 </p>
 
 <p align="center">
