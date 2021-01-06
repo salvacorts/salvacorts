@@ -1,6 +1,7 @@
 ### Hi, I'm Salva 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact&hide_border=true" />
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salva-corts/)](https://www.linkedin.com/in/salva-corts/)
+[![Gmail](https://img.shields.io/badge/-salvacorts97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvacorts97@gmail.com)](mailto:salvacorts97@gmail.com)
 
 <ul>
     <li>🧐 Interested in Data and Distributed Systems</li>
@@ -10,5 +11,4 @@
     <li>⚡️ Fun-Fact: In my free time I fly planes ✈️</li>
 </ul>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salva-corts/)](https://www.linkedin.com/in/salva-corts/)
-[![Gmail](https://img.shields.io/badge/-salvacorts97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvacorts97@gmail.com)](mailto:salvacorts97@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact&hide_border=true" />
