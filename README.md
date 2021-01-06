@@ -20,6 +20,6 @@
 
 <div align="center">
 	<br>
-    <img src="https://raw.githubusercontent.com/salvacorts/salvacorts/main/content.svg" width="800" height="400">
+    <img src="content.svg" width="800" height="400">
 	<br>
 </div>
