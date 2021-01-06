@@ -14,6 +14,6 @@
         </ul>
     </td>
     <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact&hide_border=true" />
     </td>
 </table>
