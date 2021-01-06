@@ -12,7 +12,7 @@
 
 <p align="center" vertical-align="top">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide=contribs"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
 </p>
 
 <p align="center">
