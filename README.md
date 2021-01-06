@@ -15,13 +15,20 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&line_height=27&layout=compact" />
 </p> -->
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+    .column {
+        float: left;
+        width: 50%;
+    }
 
-<div class="container">
-    <div class="col-lg-6 col-md-6  col-sm-12" style="background-color: red">
-      Column 1
-    </div>
-    <div class="col-lg-6 col-md-6  col-sm-12" style="background-color: green">
-      Column 2
-    </div
-<div>
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
+
+<div class="row">
+  <div class="column">aaaa</div>
+  <div class="column">bbbb</div>
+</div>
