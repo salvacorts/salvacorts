@@ -8,10 +8,10 @@
 - 🌱 Pursuing a Ms in Data Science
 - ⚡️ Fun-Fact: In my free time I fly planes ✈️
 
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
-<img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
-
-<p>
+<p align="center">
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/salva-corts/" target="_blank">
