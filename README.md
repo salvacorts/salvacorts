@@ -1,6 +1,8 @@
 ### Hi, I'm Salva 👋
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+
+<img height=auto width="15%" align="right" alt="Github" src="side.jpg" />
 
 - 🧐 Interested in Data and Distributed Systems
 - 💼 Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
@@ -19,6 +21,9 @@
   <a href="https://www.linkedin.com/in/salva-corts/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salva-corts/"/>
   </a>
+  <!-- <a href="https://www.kaggle.com/salvacorts" target="_blank">
+      <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-88CE02?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/salvacorts"/>
+  </a> -->
   <a href="mailto:salvacorts97@gmail.com" target="_blank">
       <img alt="Mail" src="https://img.shields.io/badge/-salvacorts97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvacorts97@gmail.com"/>
   </a>
