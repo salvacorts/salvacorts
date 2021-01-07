@@ -2,7 +2,7 @@
 
 <!-- <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-<img height=auto width="15%" align="right" alt="Github" src="side.jpg" />
+<img height=auto width="15%" align="left" alt="code" src="side.jpg" />
 
 - 🧐 Interested in Data and Distributed Systems
 - 💼 Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
