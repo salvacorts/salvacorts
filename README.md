@@ -1,8 +1,6 @@
 ### Hi, I'm Salva 👋
 
-<!-- <img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
-
-<img height=auto width="15%" align="left" alt="code" src="side.jpg" />
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🧐 Interested in Data and Distributed Systems
 - 💼 Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
