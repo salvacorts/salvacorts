@@ -1,6 +1,6 @@
 ### Hi, I'm Salva 👋
 
-<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img align="right" alt="Github" src="https://www.researchgate.net/profile/Tullio_Facchinetti/publication/267830104/figure/fig1/AS:350313333706763@1460532615418/A-network-of-highly-connected-nodes.png" />
 
 - 🧐 Interested in Data and Distributed Systems
 - 💼 Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
