@@ -22,8 +22,8 @@
   <a href="mailto:salvacorts97@gmail.com" target="_blank">
       <img alt="Mail" src="https://img.shields.io/badge/-salvacorts97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvacorts97@gmail.com"/>
   </a>
-    <a href="salvacorts.github.io" target="_blank">
-      <img alt="Mail" src="https://img.shields.io/badge/-Personal Website-00A98F?style=flat-square&logo=Safari&logoColor=white&link=salvacorts.github.io"/>
+    <a href="https://salvacorts.github.io" target="_blank">
+      <img alt="Mail" src="https://img.shields.io/badge/-Personal Website-00A98F?style=flat-square&logo=Safari&logoColor=white&link=https://salvacorts.github.io"/>
   </a>
     
 </p>
