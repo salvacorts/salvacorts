@@ -1,4 +1,4 @@
-### Hi, I'm Salva 👋
+### Hi, [I'm Salva](https://salvacorts.github.io) 👋
 
 <img width=35% align="right" alt="Github" src="rocket.png" />
 
@@ -18,11 +18,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/salva-corts/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salva-corts/"/>
-  </a>
-  <!-- <a href="https://www.kaggle.com/salvacorts" target="_blank">
-      <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-88CE02?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/salvacorts"/>
-  </a> -->
+    </a>
   <a href="mailto:salvacorts97@gmail.com" target="_blank">
       <img alt="Mail" src="https://img.shields.io/badge/-salvacorts97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salvacorts97@gmail.com"/>
   </a>
+    <a href="https://salvacorts.github.io" target="_blank">
+      <img alt="Mail" src="https://img.shields.io/badge/-Personal Website-00A98F?style=flat-square&logo=Safari&logoColor=white&link=https://salvacorts.github.io"/>
+  </a>
+    
 </p>
