@@ -1,6 +1,6 @@
 ### Hi, I'm Salva 👋
 
-<img width=55% align="right" alt="Github" src="graph.png" />
+<img width=35% align="right" alt="Github" src="rocket.png" />
 
 - 🧐 Interested in Data and Distributed Systems
 - 💼 Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
