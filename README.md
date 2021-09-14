@@ -2,11 +2,12 @@
 
 <img width=50% align="right" alt="Github" src="rocket.png"/>
 
-- 🧐 Interested in Data and Distributed Systems
-- 💼 Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
-- 🎓 BS Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)
-- 🌱 Pursuing a Ms in Data Science
-- ⚡️ Fun-Fact: In my free time I fly planes ✈️
+- 🧐 &nbsp; Interested in Data and Distributed Systems
+- 💼 &nbsp; Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
+- 🎓 &nbsp; MS in Data Science at [UGR](https://www.ugr.es/en/), <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp; BS in Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)   
+- 🌱 &nbsp; Learning about Go, ML and Cloud Computing
+- ⚡️ &nbsp; Fun-Fact: In my free time I fly planes ✈️
 
 <br/>
 
