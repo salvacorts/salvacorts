@@ -6,7 +6,7 @@
 - 💼 &nbsp; Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
 - 🎓 &nbsp; MS in Data Science at [UGR](https://www.ugr.es/en/), <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      &nbsp; BS in Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)   
-- 🌱 &nbsp; Learning about Go, ML and Cloud Computing
+- 🌱 &nbsp; Learning about Go, Cloud Computing and ML 
 - ⚡️ &nbsp; Fun-Fact: In my free time I fly planes ✈️
 
 <br/>
