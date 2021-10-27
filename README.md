@@ -3,7 +3,7 @@
 <img width=49% align="right" alt="Github" src="rocket.png"/>
 
 - 🧐 &nbsp; Interested in Data and Distributed Systems
-- 💼 &nbsp; Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
+- 💼 &nbsp; Backend Engineer at [Grafana](https://www.grafana.com) (Remote)
 - 🎓 &nbsp; MS in Data Science at [UGR](https://www.ugr.es/en/), <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;BS in Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)   
 - 🌱 &nbsp; Learning about Go, Cloud Computing and ML 
