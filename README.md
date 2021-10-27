@@ -1,19 +1,19 @@
 ### Hi, [I'm Salva](https://salvacorts.github.io) 👋
 
-<img width=50% align="right" alt="Github" src="rocket.png"/>
+<img width=49% align="right" alt="Github" src="rocket.png"/>
 
 - 🧐 &nbsp; Interested in Data and Distributed Systems
 - 💼 &nbsp; Software Engineer at [RTI](https://www.rti.com/en/) (Remote)
 - 🎓 &nbsp; MS in Data Science at [UGR](https://www.ugr.es/en/), <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     &nbsp; BS in Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)   
+      &nbsp;BS in Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)   
 - 🌱 &nbsp; Learning about Go, Cloud Computing and ML 
 - ⚡️ &nbsp; Fun-Fact: In my free time I fly planes ✈️
 
 <br/>
 
 <p align="center" vertical-align="top">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
 </p>
 
 <p align="center">
