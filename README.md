@@ -12,8 +12,8 @@
 <br/>
 
 <p align="center" vertical-align="top">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide_title=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvacorts&theme=default&layout=compact&hide_border=true"/>
+    <img width="35%" src="https://github-readme-stats.vercel.app/api?username=salvacorts&theme=default&layout=compact&hide_border=true&show_icons=true&count_private=true&hide_rank=true&include_all_commits=true&hide_title=true"/>
 </p>
 
 <p align="center">
