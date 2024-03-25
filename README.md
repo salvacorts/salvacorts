@@ -6,8 +6,8 @@
 - 💼 &nbsp; Software Engineer at [Grafana](https://www.grafana.com) (Remote)
 - 🎓 &nbsp; MS in Data Science at [UGR](https://www.ugr.es/en/)
 - 🎓 &nbsp; BS in Computer Science at [UBC](https://www.ubc.ca) and [UGR](https://www.ugr.es/en/)   
-- 🌱 &nbsp; Learning about Go, Cloud Computing and ML 
-- ⚡️ &nbsp; Fun-Fact: In my free time I fly [planes](https://en.wikipedia.org/wiki/Aeroprakt_A-22_Foxbat) ✈️
+<!-- - 🌱 &nbsp; Learning about Go, Cloud Computing and ML -->
+<!-- - ⚡️ &nbsp; Fun-Fact: In my free time I fly [planes](https://en.wikipedia.org/wiki/Aeroprakt_A-22_Foxbat) ✈️ -->
 
 <br/>
 
